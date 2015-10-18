@@ -32,7 +32,10 @@ Optional:
 ## Screenshots
 
 Subscribe form
+
 ![alt](https://raw.githubusercontent.com/anwfr/wordpress-plugin-mailchimp-subscribe-ajax/master/doc/form.png)
 
+
 Subscribe confirmation
+
 ![alt](https://raw.githubusercontent.com/anwfr/wordpress-plugin-mailchimp-subscribe-ajax/master/doc/confirm.png)
