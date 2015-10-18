@@ -10,7 +10,6 @@ Light Wordpress plugin providing a shortcode to display an AJAX subscribe form t
 
 ##Usage
 
-### Basic
 Put this code in any Wordpress template:
     [MailchimpSubscribeAjax  form_url='//xxxxxx.list-manage.com/subscribe/post-json?u=xxxxx&id=xxxxx']
 
@@ -18,7 +17,7 @@ Put this code in any Wordpress template:
     This URL can be found on Mailchimp website -> lists -> signup forms -> embedded forms (html) -> the subscribe URL is the form action in the generated HTML code
 
 
-### Optional
+Optional:
     You can customize labels and messages with the following options:
 
         [MailchimpSubscribeAjax  form_url='http://xxxxxx.list-manage.com/subscribe/post-json?u=xxxxx&id=xxxxx'
@@ -31,8 +30,8 @@ Put this code in any Wordpress template:
 
 ## Screenshots
 
-### Subscribe form
-![alt](doc/form.png, '')
+Subscribe form
+![alt](https://raw.githubusercontent.com/anwfr/wordpress-plugin-mailchimp-subscribe-ajax/master/doc/form.png, '')
 
-### Subscribe confirmation
-![alt](doc/confirm.png, '')
+Subscribe confirmation
+![alt](https://raw.githubusercontent.com/anwfr/wordpress-plugin-mailchimp-subscribe-ajax/master/doc/confirm.png, '')
