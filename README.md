@@ -1,7 +1,6 @@
 # Wordpress plugin : mailchimp-subscribe-ajax
 
-Wordpress plugin providing a shortcode to display an AJAX subscribe form to Mailchimp.
-If you are tired of
+Light & non-intrusive Wordpress plugin providing a shortcode to display an AJAX subscribe form to Mailchimp.
 
 
 ## Installation
