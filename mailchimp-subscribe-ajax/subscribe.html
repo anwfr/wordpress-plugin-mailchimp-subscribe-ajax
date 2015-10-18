@@ -1,0 +1,18 @@
+<link type="text/css" rel="stylesheet" href="/wp-content/plugins/mailchimp-subscribe-ajax/subscribe.css"/>
+
+<script type="text/javascript">
+    var msa_settings= {
+        'form_url': "__form_url__",
+        'msg_email_invalid': "__msg_email_invalid__",
+        'msg_subscribe_ok': "__msg_subscribe_ok__",
+        'msg_subscribe_error': "__msg_subscribe_error__"
+    };
+</script>
+
+<script type="text/javascript" src="/wp-content/plugins/mailchimp-subscribe-ajax/subscribe.js"></script>
+<form id="msaForm" onsubmit="return mailchimpSubscribeAjax(this);">
+    <div>
+    <input type="text" placeholder="__placeholder__" value="" name="EMAIL">
+    <button type="submit" name="SUBMIT">__submit__</button>
+    </div>
+</form>

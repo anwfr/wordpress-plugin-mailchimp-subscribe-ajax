@@ -1,0 +1,22 @@
+#msaForm {
+    margin:0;
+    padding:13px 0 0 0;
+    display:block;
+}
+#msaForm button, #msaForm input {
+    margin:0;
+    height:27px;
+    padding:4px 8px;
+    border:1px solid #eee;
+    float:left;
+    display: inline;
+}
+#msaForm input {
+    width:220px;
+    margin-right:5px;
+    font-size:12px;
+}
+#msaForm button {
+    width:auto;
+    background-color:#fff;
+}
